@@ -4,3 +4,5 @@ Just you have to extract this Java library to your/jdk/path/lib/src.zip/java.bas
 
 change "class_you_want_to_use" to the actual class you want to use.
 you can use "java.util.library.*" to access all the classes in your java project.
+
+Thanks for downloading 😊
